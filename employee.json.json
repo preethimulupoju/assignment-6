@@ -1,0 +1,39 @@
+{
+    "Employees": [
+        {
+            "Name": "rajesh",
+            "DOB": "01/01/1990",
+            "Height": "5'0\"",
+            "City": "hyderabad",
+            "State": "telangana"
+        },
+        {
+            "Name": "vamshi",
+            "DOB": "04/05/1998",
+            "Height": "5'5\"",
+            "City": "mysore",
+            "State": "karnataka"
+        },
+        {
+            "Name": "raviteja",
+            "DOB": "20/10/1992",
+            "Height": "6'2\"",
+            "City": "coimbatore ",
+            "State": "tamilnadu"
+        },
+        {
+            "Name": "ramesh ",
+            "DOB": "20/10/1995",
+            "Height": "5'7\"",
+            "City": "surat",
+            "State": "gujarat"
+        },
+        {
+            "Name": "tom ",
+            "DOB": "02/14/1985",
+            "Height": "6'1\"",
+            "City": "pune",
+            "State": "maharashtra"
+        }
+    ]
+}
